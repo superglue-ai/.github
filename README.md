@@ -5,7 +5,7 @@
 
 # welcome 🍯
 
-[![Discord](https://img.shields.io/discord/wzcgh7btxU?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/wzcgh7btxU)
+[![Discord](https://img.shields.io/discord/vUKnuhHtfW?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/vUKnuhHtfW)
 [![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://superglue.cloud)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adina?style=social)](https://x.com/adinagoerres)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Stefan?style=social)](https://x.com/SFaistenauer)
@@ -23,4 +23,4 @@ check our [open superglue issues](https://github.com/superglue-ai/superglue/issu
 
 ## 💬 join the community
 
-join our [discord](https://discord.gg/wzcgh7btxU) to stay in the loop about latest releases.
+join our [discord](https://discord.gg/vUKnuhHtfW) to stay in the loop about latest releases.
