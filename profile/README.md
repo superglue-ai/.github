@@ -17,7 +17,7 @@ we want to make data accessible accross systems, formats and operators.
 
 ## 🤝 contributions
 
-we want you to chime in and build with us.
+we love your contributions. feel free to chime in and build with us.
 
 check our [open superglue issues](https://github.com/superglue-ai/superglue/issues) and [open superglue pull requests](https://github.com/superglue-ai/superglue/pulls) for more information.
 
