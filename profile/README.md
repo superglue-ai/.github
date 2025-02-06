@@ -3,17 +3,26 @@
   <img src="https://github.com/user-attachments/assets/be0e65d4-dcd8-4133-9841-b08799e087e7" width="350" alt="superglue_logo_white">
 </p>
 
-# welcome 🍯
+<h1 align="center">data that speaks your language 🍯</h1>
 
-[![Discord](https://img.shields.io/discord/vUKnuhHtfW?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/vUKnuhHtfW)
-[![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://superglue.cloud)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adina?style=social)](https://x.com/adinagoerres)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Stefan?style=social)](https://x.com/SFaistenauer)
+superglue translates data from external systems into exactly the format you need. It’s an open source proxy that automatically extracts, maps and transforms data so developers don’t have to write and maintain complex integration code.
+
+- 🔮 One-off LLM-powered translations: Generate deterministic, high-performance translation code.
+- 🩹 Self-healing: Detect format changes and update translations automatically.
+- 🚀 Fast deployment: Supports most APIs and data formats out of the box.
 
 
-## why superglue?
+<div align="center">
 
-we want to make data accessible accross systems, formats and operators.
+[![GitHub](https://img.shields.io/github/license/superglue-ai/superglue?style=flat-square)](https://github.com/superglue-ai/superglue/blob/main/LICENSE)
+[![Y Combinator](https://img.shields.io/badge/Y%20Combinator-W25-orange?style=flat-square)](https://www.ycombinator.com/companies/superglue)
+[![Client SDK](https://img.shields.io/npm/v/@superglue/client?style=flat-square&logo=npm)](https://www.npmjs.com/package/@superglue/client)
+[![Docker](https://img.shields.io/docker/pulls/superglueai/superglue?style=flat-square&logo=Docker)](https://hub.docker.com/r/superglueai/superglue)
+[![Twitter Adina](https://img.shields.io/twitter/follow/adinagoerres?style=flat-square&logo=X)](https://twitter.com/adinagoerres)
+[![Twitter Stefan](https://img.shields.io/twitter/follow/sfaistenauer?style=flat-square&logo=X)](https://twitter.com/sfaistenauer)
+
+
+</div>
 
 ## 🤝 contributions
 
