@@ -5,7 +5,7 @@
 
 <h2 align="center">API connector that writes its own code 🍯</h2>
 
-superglue allows you to connect to any API/data source and get the data you want in the format you need. It’s an open source proxy server, which sits between you and your target APIs. Thus, you can easily deploy it into your own infra.
+superglue lets you connect to any API/data source and get the data you want in the format you need. It’s an open source proxy server, which sits between you and your target APIs. Thus, you can easily deploy it into your own infra.
 
 Here's how it works: You define your desired data schema and provide basic instructions about an API endpoint (like "get all issues from Jira"). Superglue then does the following:
 
