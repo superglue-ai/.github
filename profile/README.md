@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/be0e65d4-dcd8-4133-9841-b08799e087e7" width="350" alt="superglue_logo_white">
 </p>
 
-<h2 align="center">API connector that writes its own code 🍯</h2>
+<h2 align="center">self-healing open source data connector 🍯</h2>
 
 superglue lets you connect to any API/data source and get the data you want in the format you need. It’s an open source proxy server, which sits between you and your target APIs. Thus, you can easily deploy it into your own infra.
 
