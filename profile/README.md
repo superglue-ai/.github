@@ -3,16 +3,18 @@
   <img src="https://github.com/user-attachments/assets/be0e65d4-dcd8-4133-9841-b08799e087e7" width="350" alt="superglue_logo_white">
 </p>
 
-<h2 align="center">self-healing open source data connector 🍯</h2>
+<h2 align="center">self-healing integration agent 🍯</h2>
 
-superglue lets you connect to any API/data source and get the data you want in the format you need. It’s an open source proxy server, which sits between you and your target APIs. Thus, you can easily deploy it into your own infra.
-
-Here's how it works: You define your desired data schema and provide basic instructions about an API endpoint (like "get all issues from Jira"). Superglue then does the following:
+superglue is a self-healing integration agent. You can deploy it as a proxy between you and any complex / legacy APIs and always get the data that you want in the format you expect. Here's how it works: You prompt superglue in natural language (like "get all issues from jira"), provide an API URL, and superglue transforms the prompt into corresponding API calls. What superglue does under the hood:
 
 - Automatically generates the API configuration by analyzing API docs.
 - Handles pagination, authentication, and error retries.
-- Transforms response data into the exact schema you want using JSONata expressions.
+- Creates deterministic transformations (using JSONata for creating transformation rules), into the exact schema you need.
 - Validates that all data coming through follows that schema, and fixes transformations when they break.
+
+superglue uses LLMs only during configuration setup and transformation rule creation, making the glueing process deterministic and extremely efficient in terms of latency and cost.
+
+If you’re spending a lot of time writing code connecting to weird APIs, fumbling with custom fields in foreign language ERPs, mapping JSONs, extracting data from compressed CSVs sitting on FTP servers, and making sure your integrations don’t break when something unexpected comes through, superglue might be for you.
 
 <div align="center">
 
