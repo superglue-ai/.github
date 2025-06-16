@@ -3,15 +3,21 @@
   <img src="https://github.com/user-attachments/assets/be0e65d4-dcd8-4133-9841-b08799e087e7" width="350" alt="superglue_logo_white">
 </p>
 
-<h2 align="center">one SDK to manage all your data pipelines. 🍯</h2>
+<h2 align="center">Automate workflows with natural language. 🍯</h2>
 
-superglue bundles your pipelines into one stable, self-healing endpoint. Comes with automated schema-drift detection, retries and remappings so your data keeps moving no matter what - no connector maintenance, no rewrites. You can deploy it as a proxy between you and any SaaS app, API and data source and always get the data that you want in the format you expect.
+<h3 align="center"> Now live: let agents build deterministic workflows across apps, databases and APIs using the superglue MCP<br>
+Let's glue.<br>
 
-- Drop‑in proxy: point it at any REST / GraphQL / SQL / file endpoint.
-- LLM‑assisted mapping at setup; cached JSONata transforms at runtime (no LLM latency).
-- Self‑healing drift detector: when the upstream schema changes, superglue regenerates the transform, bumps a version, and keeps the pipeline running.
-- Security‑first: zero data stored; run fully on‑prem or use our hosted version.
-- Agent‑ready: every pipeline is exposed as a single, deterministic endpoint that LangChain, Retool or internal no‑code tools can call without knowing the ugly stuff underneath.
+[Read the docs](https://docs.superglue.cloud/mcp) 🍯🍯🍯</h3>
+
+superglue automates workflows from natural language. Tell it what you want to do in your CRM, ERP and co. and superglue builds, runs and executes the integration pipelines automatically. Comes with automated schema mapping, drift detection, retries and remappings so your workflows keep running no matter what. 
+superglue makes agents reliable in prod by letting them build deterministic workflows across any SaaS app, API and data source. Use the superglue MCP instead of hard-coding tools and let your agent use APIs the way they want to, not the way they were written. 
+
+- Lightweight proxy: point it at any REST / GraphQL / SQL / postgres / file endpoint.
+- LLM‑assisted mapping during config; cached Javascript transforms at runtime (no LLM latency).
+- Self‑heals schema drift: when the upstream API or schema changes, superglue regenerates the transform automatically, and keeps the pipeline running.
+- Security‑first: zero data stored; run fully on‑prem or use [our hosted version](https://app.superglue.cloud/).
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/github/license/superglue-ai/superglue?style=flat-square)](https://github.com/superglue-ai/superglue/blob/main/LICENSE)
